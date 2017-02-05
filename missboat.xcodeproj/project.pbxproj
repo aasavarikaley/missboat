@@ -498,6 +498,7 @@
 				00EAD1681E47020C003A1F0F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		00EAD1691E47020C003A1F0F /* Build configuration list for PBXNativeTarget "missboatTests" */ = {
 			isa = XCConfigurationList;
@@ -506,6 +507,7 @@
 				00EAD16B1E47020C003A1F0F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		00EAD16C1E47020C003A1F0F /* Build configuration list for PBXNativeTarget "missboatUITests" */ = {
 			isa = XCConfigurationList;
@@ -514,6 +516,7 @@
 				00EAD16E1E47020C003A1F0F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
